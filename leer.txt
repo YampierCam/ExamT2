@@ -1,0 +1,3 @@
+flechas=movimientos
+flecha hacia abajo deslizar
+tecla c = lanza cunay
